@@ -1,6 +1,3 @@
-/* simple-JS-Lotto-game
-simple JS Lotto game*/
-
 <!DOCTYPE html>
 <html>
 <head>
